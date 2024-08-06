@@ -1,18 +1,18 @@
 # Part 1
 ### a)
-
-
-
-
+grep "blas" filescan_00.1 > blas.txt
+grep "beed" filescan_00.1 > beed.txt
+grep "butt" filescan_00.1 > butt.txt
+grep "bulb" filescan_00.1 > bulb.txt
 ### b)
-
-
-
+grep "mander" filescan_00.2 > charmander.txt
+grep "meleon" filescan_00.2 > meleon.txt
+grep "izard" filescan_00.2 > izard.txt
 ### c)
-
-
-
-
+grep "jigg" filescan_00.3 > jigg.txt
+grep "meow" filescan_00.3 > meow.txt
+grep "pika" filescan_00.3 > pika.txt
+grep "ivys" filescan_00.3 > ivys.txt
 
 
 
