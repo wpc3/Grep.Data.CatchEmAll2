@@ -13,8 +13,8 @@ grep "jigg" filescan_00.3 > jigg.txt
 grep "meow" filescan_00.3 > meow.txt
 grep "pika" filescan_00.3 > pika.txt
 grep "ivys" filescan_00.3 > ivys.txt
-
-
+grep "squi" filescan_00.4 > squirt.txt
+grep "uck" filescan_00.4 > uck.txt
 
 
 
@@ -24,6 +24,10 @@ grep "ivys" filescan_00.3 > ivys.txt
 
 # Part 2
 ### a)
+will@Zipcoders-MacBook-Pro-29 captured % ls -l | grep "^-" | wc -l
+      15
+
+
 
 
 
@@ -31,6 +35,8 @@ grep "ivys" filescan_00.3 > ivys.txt
 
 
 ### b)
+Charizard Pikachu Beedrill
+find . -name '*.txt' | xargs wc -l
 
 
 
